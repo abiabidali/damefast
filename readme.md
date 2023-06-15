@@ -1,2 +1,2 @@
 # welcome demo
-tast
+tast fast
